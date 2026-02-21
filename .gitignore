@@ -1,0 +1,11 @@
+# Build artifacts
+/dist/
+/.package-temp/
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
